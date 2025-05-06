@@ -1,2 +1,2 @@
-.env
-.pt
+*.env
+*.pt
