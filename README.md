@@ -10,6 +10,20 @@ A real-time security alarm system leveraging YOLOv8 for object detection. The sy
 - **Flexible & Configurable for Any Environment**
 
 ---
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/F4n8Uv5w4Ow/0.jpg)](https://www.youtube.com/embed/F4n8Uv5w4Ow?autoplay=1)
+
+---
+
+## 🖼️ Screenshots
+
+<table>
+  <tr>
+    <td><img src="images/1.jpg" alt="Image 1" width="100%"/></td>
+    <td><img src="images/mail.jpg" alt="Image 2" width="100%"/></td>
+  </tr>
+</table>
 
 ## Project Structure
 
