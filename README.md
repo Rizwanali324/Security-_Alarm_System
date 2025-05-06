@@ -10,10 +10,6 @@ A real-time security alarm system leveraging YOLOv8 for object detection. The sy
 - **Flexible & Configurable for Any Environment**
 
 ---
-## 🎥 Demo Video
-
-
-[![Watch the demo](https://img.youtube.com/vi/F4n8Uv5w4Ow/0.jpg)](https://www.youtube.com/embed/F4n8Uv5w4Ow?autoplay=1)
 
 ## Project Structure
 
@@ -77,16 +73,3 @@ python alarm.py
 
 ### 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and open a pull request.
-
-
-
-
-
-
-
-
-
-
-
-
-
